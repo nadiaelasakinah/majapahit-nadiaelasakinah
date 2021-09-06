@@ -1,0 +1,1 @@
+export const GET_CARD_DATA = 'GET_CARD_DATA';
